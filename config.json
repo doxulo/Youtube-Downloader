@@ -1,0 +1,7 @@
+{
+    "PREFIX_VIDEO" : "video_",
+    "PREFIX_AUDIO" : "audio_",
+    "THREADS" : 2000,
+    "OUTPUT_PATH" : "output\\",
+    "TEMP_FILE_NAME" : "tmp_pytube"
+}
